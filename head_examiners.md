@@ -1,4 +1,4 @@
-###### PROCEDURE FOR ALLOCATION OF SUBJECTS ###
+###### PROCEDURE TO ALLOCATE SHEETS TO EVALUATORS FOR ONLINE CHECKING ###
 1.  Login into *https://ese.gndec.ac.in/ese_april21* using your login credentials of guru.gndec.ac.in.
 1. Click on course MAY 2021.
 1. Scroll down to the date on which paper to be alloted is conducted and click on that date.
@@ -7,6 +7,16 @@
 4. Click on view all submissions.Following page will appear.</br></br></br></br>![alt text](https://github.com/shailjasharma15/information/blob/main/step1.1.PNG)</br></br>In   seperate groups choose 'PaperID' as group.</br></br>
 6. Suppose n sheets are to be alloted to some evaluator . Click before n sheets or click on  *select all* to select all sheets shown on page.
 7. Scroll down page to view option *with selected*.</br></br>![alt text](https://github.com/shailjasharma15/information/blob/main/step2.PNG) </br></br>Click on go.</br></br>
-8. Following page will appear. .</br></br>![alt text](https://github.com/shailjasharma15/information/blob/main/step3.PNG).</br></br>Select the name of evaluator from option *Allocated Marker*  and click on save changes.</br></br>
- Repeat steps 6 to 8 untill all sheets are not alloted to evaluators.
- 
+8. Following page will appear. .</br></br>![alt text](https://github.com/shailjasharma15/information/blob/main/step3.PNG).</br></br>Select the name of evaluator from option  
+    *Allocated Marker*  and click on save changes.</br></br>
+ 1. Repeat steps 6 to 8 untill all sheets are not alloted to evaluators.
+ 1. Filters can be used to see filtered data. ![alt text](https://github.com/shailjasharma15/information/blob/main/step4.PNG) e.g   Choose *No Marker* in Marker filter option to see list of participants to whom evaluator is not assigned.
+ 2. In Workflow Filter, choose **Not Marked** to see how many sheets are not yet completed.
+ 3. If submission status of all sheets are marked then 
+     - Choose *All* in option **Assignment Per page**
+     - Click on *select* at top of page.
+     - Choose *Set Marking WorkFlow State* in **with selected** option.Then click on go.
+     - In *Marking workflow state* , choose **Ready For Release**
+     - Click on save changes.
+
+
