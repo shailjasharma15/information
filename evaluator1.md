@@ -1,7 +1,6 @@
 ### INSTRUCTIONS TO EVALUATE ESE May 2021 ###
-1.  Login into *https://ese.gndec.ac.in/ese_april21* using your login credentials of guru.gndec.ac.in.
-1.  Click on course MAY 2021.
-1.  Scroll down to the date on which paper to be evaluated is conducted and click on that date.
+1.  Login into *http://175.176.187.106/moodlenew/* using  login credentials shared with you.
+1.  Click on course *backup9_12*.
 2.  Click on the paper whose evaluation is to be done.
 3.  Following page will appear. ![alt text](https://github.com/shailjasharma15/information/blob/main/step1.PNG) In seperate groups choose 'PaperID' as group.</br></br>
 1.  Evaluator can read  Question paper by clicking on filename e.g QP_15712.pdf in above screenshot.
